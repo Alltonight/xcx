@@ -25,6 +25,6 @@ hello Git! hello word!
 hello Git! hello word!
 hello Git! hello word!
 hello Git! hello word!
-hello Git! hello word!
+hello Git! hello word! master-fix
 hello Git! hello word!
 
